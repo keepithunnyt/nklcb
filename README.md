@@ -1,4 +1,4 @@
 # nklcb
 패스트캠퍼스 네카라쿠배 데이터사이언스스쿨
 
-#### 210913 - OT
+#### 210913 - OT, [파이썬 기초](https://github.com/keepithunnyt/nklcb/blob/main/210913.md)
