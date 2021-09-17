@@ -7,4 +7,6 @@
 
 #### 210915 - [파이썬 기초2](https://github.com/keepithunnyt/nklcb/blob/main/210915.md)
 
-#### 210914 - [EDA, 웹 크롤링2](https://github.com/keepithunnyt/nklcb/blob/main/210916.md)
+#### 210916 - [EDA, 웹 크롤링2](https://github.com/keepithunnyt/nklcb/blob/main/210916.md)
+
+#### 210917 - [파이썬 기초3](https://github.com/keepithunnyt/nklcb/blob/main/210916.md)
