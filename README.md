@@ -15,4 +15,4 @@
 
 #### 210924 - [파이썬 기초4](https://github.com/keepithunnyt/nklcb/blob/main/210924.md)
 
-#### 211006 - [simple_project]()
+#### 211006 - [simple_project](https://github.com/keepithunnyt/nklcb/blob/main/weekly_test_211006_%EA%B9%80%EC%84%B1%EA%B8%B8.ipynb)
