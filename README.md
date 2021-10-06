@@ -14,3 +14,5 @@
 #### 210923 - [EDA, 웹 크롤링3](https://github.com/keepithunnyt/nklcb/blob/main/210923.md)
 
 #### 210924 - [파이썬 기초4](https://github.com/keepithunnyt/nklcb/blob/main/210924.md)
+
+#### 211006 - [simple_project]()
